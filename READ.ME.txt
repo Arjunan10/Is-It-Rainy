@@ -1,0 +1,17 @@
+Project: Basic Weather App
+
+Languages used : HTML,CSS,JS 
+
+API : Weather API from Open Weather.org || API response data using JSON  
+
+Server  : Localhost Server with simple operations
+
+
+*If zip file is blocked by gmail , save in your Drive and open (in Desktop)
+
+*if you like to put some Designs ~ try it
+
+
+
+
+-Ak
