@@ -12,7 +12,7 @@ body {
 
 .card {
     background: #000000d0;
-    color: rgb(29, 244, 252);
+    color: rgba(240, 152, 70, 0.753);
     padding: 2em;
     border-radius: 30px;
     width: 100%;
