@@ -1,8 +1,0 @@
-Project: Basic Weather App
-
-Languages used : HTML,CSS,JS 
-
-API : Weather API from Open Weather.org || API response data using JSON  
-
-
-
